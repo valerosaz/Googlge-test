@@ -1,0 +1,9 @@
+"F:\CLion 2018.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\SAXION\2nd Year\Software Engineering\Calculator"
+CMake Warning at lib/googletest/CMakeLists.txt:47 (project):
+  VERSION keyword not followed by a value or was followed by a value that
+  expanded to nothing.
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/SAXION/2nd Year/Software Engineering/Calculator/cmake-build-debug

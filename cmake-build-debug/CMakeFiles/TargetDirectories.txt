@@ -1,0 +1,8 @@
+D:/SAXION/2nd Year/Software Engineering/Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/SAXION/2nd Year/Software Engineering/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir
+D:/SAXION/2nd Year/Software Engineering/Calculator/cmake-build-debug/CMakeFiles/tests.dir
+D:/SAXION/2nd Year/Software Engineering/Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SAXION/2nd Year/Software Engineering/Calculator/cmake-build-debug/lib/googletest/CMakeFiles/gtest.dir
+D:/SAXION/2nd Year/Software Engineering/Calculator/cmake-build-debug/lib/googletest/CMakeFiles/gtest_main.dir
+D:/SAXION/2nd Year/Software Engineering/Calculator/cmake-build-debug/lib/googletest/CMakeFiles/edit_cache.dir
+D:/SAXION/2nd Year/Software Engineering/Calculator/cmake-build-debug/lib/googletest/CMakeFiles/rebuild_cache.dir
